@@ -1,0 +1,61 @@
+Company Name: DM Technologies
+
+Founders:
+- Brightman Mutumwapavi
+  Role: Co-founder & Lead Developer
+  Expertise: Machine Learning applications, AI agents, fraud detection systems, automation, data science solutions.
+  Background: Data Science specialist with strong experience in ML, AI, and analytics.
+  Base Location: Zimbabwe
+- Densher Chingware
+  Role: Co-founder & Product Designer
+  Expertise: UI/UX design, web development, mobile app development, graphic design, and digital marketing.
+  Background: Business-oriented technologist with strong design and marketing skills.
+  Base Location: India
+
+Company Overview:
+DM Technologies is a technology solutions company focused on bridging the gap between business and technology. We design and build modern, scalable, and affordable digital solutions for startups, SMEs, and growing enterprises.
+
+Founded: 2025
+
+Company Locations:
+- Harare, Zimbabwe – Main operations and business development
+- Delhi, India – Design and development hub
+
+Services Offered:
+- Web Development
+- Mobile App Development
+- UI/UX Design
+- Logo & Graphic Design
+- Machine Learning Applications
+- AI Chatbots & Automation Solutions
+- Business Intelligence & Data Analytics
+
+Mission:
+To bridge business and technology by delivering affordable, reliable, and scalable digital solutions tailored to our clients’ goals.
+
+Vision:
+To empower African and global businesses through intelligent technology, automation, and data-driven solutions.
+
+Fun Fact:
+DM Technologies started as a two-person team building tools for local businesses and has grown into a company serving clients globally.
+
+Contact Information:
+Email: info@dmtechnologies.co.zw
+Website: https://dmtechnologies.co.zw
+Phone Numbers:
+- +91 95817 35231
+- +91 96183 57003
+
+Contact Preferences:
+For project inquiries, quotes, or consultations, email is preferred. Calls are available during working hours.
+
+Availability:
+- Weekdays only
+- 9:00 AM – 6:00 PM
+
+Time Zones:
+- Zimbabwe: UTC +2
+- India: UTC +5:30
+
+Chatbot Instructions:
+When users ask about the company, founders, services, or contact details, use the information in this file as the primary source of truth.
