@@ -1,8 +1,8 @@
 # DMTech AI Assistant
 
-![Home Preview](PASTE-YOUR-HOMEPAGE-IMAGE-LINK-HERE)
+![Home Preview](images/home.png)
 
-[Live Demo](PASTE-YOUR-LIVE-DEMO-LINK-HERE)
+[Live Demo](https://dmtech-ai-customer-assistant.onrender.com/)
 
 ## Overview
 
@@ -90,7 +90,6 @@ DMTechAi/
 ├── requirements.txt
 ├── render.yaml
 ├── README.md
-└── chatbot-toy.html
 ```
 
 ## How It Works
@@ -145,13 +144,6 @@ On Render, set the environment variable:
 OPENAI_API_KEY=your_key_here
 ```
 
-## Demo Placeholders
-
-Add your production links here after deployment:
-
-- Live Demo: `PASTE-YOUR-LIVE-DEMO-LINK-HERE`
-- Homepage Image: `PASTE-YOUR-HOMEPAGE-IMAGE-LINK-HERE`
-
 ## Future Potential
 
 This project can grow into a much larger business tool with features such as:
@@ -166,4 +158,4 @@ This project can grow into a much larger business tool with features such as:
 
 ## Author
 
-Built for DM Technologies as a smart AI assistant experience for modern business engagement, lead capture, and digital transformation.
+Built for DM Technologies by Brightman as a smart AI assistant experience for modern business engagement, lead capture, and digital transformation.
